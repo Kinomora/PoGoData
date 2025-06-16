@@ -5,3 +5,5 @@ This repo is associated directly with a public Google Sheets spreadsheet and it 
 It would probably be more intelligent to create the data on Github and then import it and decorate it on Sheets, but whatever.
 
 Sheets link: [here](https://docs.google.com/spreadsheets/d/1RjhuCpmqzL2RcCHc1Gjzz9UfYjZ7Qkgc1inl2IzSZMY/edit?usp=sharing)
+
+Feel free to submit change or feature suggestions, issues, or pull-requests!
